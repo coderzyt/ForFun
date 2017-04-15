@@ -1,0 +1,2 @@
+;reload; */*:dumpStructureTo /private/var/folders/85/z24rc8n511774hyzs7k5_4yr0000gn/T/sbt-structure.xml download resolveClassifiers
+; {file:/Users/Clay/Downloads/project/Scala/}scala/products; {file:/Users/Clay/Downloads/project/Scala/}scala/test:products
